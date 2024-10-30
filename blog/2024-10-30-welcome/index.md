@@ -2,6 +2,7 @@
 slug: welcome
 title: Welcome To Sentio
 authors: [krish, haard,dev]
+tags: [welcome]
 
 ---
 
