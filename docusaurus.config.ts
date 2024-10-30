@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'SENTIO',
-  tagline: 'Enter an End To End Pipeline with Security, Analysis and Monitoring',
+  tagline: 'Security, Auditing, and Monitoring in Arweave and AO Space',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

@@ -2,15 +2,37 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# What is SENTIO ?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **SENTIO**.
 
-## Getting Started
+Sentio, derived from Latin or "observe" and "analyze," introduces a
+comprehensive 3-step security framework for deploying and
+interacting with [Arweave](https://www.arweave.org/) and [AO](https://ao.arweave.dev/).
 
-Get started by **creating a new site**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+
+
+
+## Why SENTIO
+
+Sentio is designed to track and monitor your AO process. It deploys Sentinels that provide two types of support:
+
+- OffChain Analysis
+- OnChain Analysis
+
+### Sentinals
+A Sentinal is a guard, a lookout, always watching over your AO process. With Sentio, you get a fully customized process watcher that analyzes every transaction of your active process.
+
+
+### Off-Chain Analysis
+
+Sentinels analyze your Lua code before deploying any contracts, finding vulnerabilities before your smart contracts go live.
+
+### On-Chain Analysis
+
+Sentinels monitor your AO process on-chain to track every transaction and ensure everything runs smoothly.
+
 
 ### What you'll need
 
