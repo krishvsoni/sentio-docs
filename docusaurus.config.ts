@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://sentio.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/QeWz4z6da2a3ZTXyEj48eOfhpBbuMWCKsLtLZ3d4pAc/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -64,12 +64,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'https://i.imgur.com/ReJXkJg.png',
     navbar: {
       title: 'SENTIO',
       logo: {
         alt: 'SENTIO',
-        src: 'img/logo.svg',
+        src: 'https://i.imgur.com/04uG8mf.png',
       },
       items: [
         {
@@ -121,7 +121,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/haard18/Sentio',
             },
           ],
         },
