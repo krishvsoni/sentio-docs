@@ -47,7 +47,7 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title} Sentio Docs`}
+      title={`${siteConfig.title} Docs`}
       description="Walkthrough towards Security">
       <HomepageHeader />
       <main>
