@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://sentio.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/QeWz4z6da2a3ZTXyEj48eOfhpBbuMWCKsLtLZ3d4pAc/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
