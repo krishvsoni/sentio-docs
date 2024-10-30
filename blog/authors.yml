@@ -11,7 +11,7 @@ haard:
 krish:
   name: Krish Soni
   title: Co-Founder
-  url: https://sebastienlorber.com
+  url: https://krishsoni.co
   image_url: https://i.imgur.com/2iXpXjy.png
   page: true
   socials:
@@ -21,7 +21,7 @@ krish:
     # newsletter: https://thisweekinreact.com
 dev:
   name: Dev Patil
-  title: Developer
+  title: Design and Content Lead
   url: https://github.com/DevPatils
   image_url: https://i.imgur.com/32O6YdQ.png
   socials:

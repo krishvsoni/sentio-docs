@@ -78,7 +78,7 @@ const config: Config = {
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Team', position: 'left'},
         {
           href: 'https://github.com/haard18/Sentio',
           label: 'GitHub',
@@ -116,7 +116,7 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Team',
               to: '/blog',
             },
             {
