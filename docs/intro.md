@@ -3,8 +3,8 @@ sidebar_position: 1
 ---
 
 # What is SENTIO ?
-
 Let's discover **SENTIO**.
+
 
 Sentio, derived from Latin or "observe" and "analyze," introduces a
 comprehensive 3-step security framework for deploying and
@@ -16,54 +16,20 @@ interacting with [Arweave](https://www.arweave.org/) and [AO](https://ao.arweave
 
 ## Why SENTIO
 
-Sentio is designed to track and monitor your AO process. It deploys Sentinels that provide two types of support:
+Sentio is designed to track and monitor your AO process. It deploys Sentinels which are responsible for overlooking and analyzing any interactions with AO. Sentio provides a comprehensive security framework for deploying and interacting with Arweave and AO. It consists of two main components:
 
-- OffChain Analysis
-- OnChain Analysis
+- **PreDeployment Analysis**
+- **PostDeployment Analysis**
 
-### Sentinals
-A Sentinal is a guard, a lookout, always watching over your AO process. With Sentio, you get a fully customized process watcher that analyzes every transaction of your active process.
-
-
-### Off-Chain Analysis
-
-Sentinels analyze your Lua code before deploying any contracts, finding vulnerabilities before your smart contracts go live.
-
-### On-Chain Analysis
-
-Sentinels monitor your AO process on-chain to track every transaction and ensure everything runs smoothly.
+### Sentinels
+A Sentinal is a guard, a lookout these ***immortal*** beings are overseeing every transaction  . With Sentio, you get a fully customized process watcher that analyzes every transaction of your active process. This Customization consists of setting up Tags, Values, sender, Data of message and many more. Any transaction that does not meet the criteria set by you will be flagged and reported to you.
 
 
-### What you'll need
+### PreDeployment Analysis
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Sentio has a mechanism to audit your lua code that will be deployed on AO. It will analyze your code and provide you with a detailed report of the vulnerabilities and potential threats that your code might have. This will help you to fix the issues before deploying your code on AO.
+### PostDeployment Analysis
 
-## Generate a new site
+The PostDeployement Analysis is the most important part of Sentio. It is responsible for monitoring the transactions that are happening on AO. It will analyze every transaction and will provide you with a detailed report of the transactions that are happening on AO. It will also provide you with the details of the transactions that are not meeting the criteria set by you. This will help you to keep your AO process secure and safe.
 
-Generate a new Docusaurus site using the **classic template**.
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.

@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Pre-Deployement Analysis",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Look at the types of Vulnerabilities that we are trying to prevent"
   }
 }
