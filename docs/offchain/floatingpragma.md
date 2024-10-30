@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 # Floating Pragma
-
+This page explains the floating pragma vulnerability in smart contracts.
 ## Description
 A floating pragma in a smart contract allows the contract to be compiled with any version of the compiler that meets the specified version range. For example, a pragma like `pragma solidity ^0.8.0;` indicates compatibility with any version from `0.8.0` up to, but not including, `0.9.0`. While this can provide flexibility, it may also introduce compatibility issues with future versions of the compiler.
 
@@ -24,3 +24,22 @@ end
 -- Example usage
 checkCompatibility(5.3)  -- Output: Compatible version
 checkCompatibility(5.4)  -- Output: Incompatible version
+```md
+:::tip My tip
+
+Use this awesome feature option
+
+:::
+
+:::danger Take care
+
+This action is dangerous
+
+:::
+```
+
+:::tip My tip
+
+Yhis might be removed soon
+:::
+

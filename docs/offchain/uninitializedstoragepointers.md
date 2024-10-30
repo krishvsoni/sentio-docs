@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 # Uninitialized Storage Pointers
-
+This page explains the risks associated with uninitialized storage pointers in smart contracts and provides an example in Lua.
 ## Description
 Uninitialized storage pointers refer to variables that are declared but not initialized before use. In certain languages, this can cause unintentional data corruption by inadvertently referencing unexpected storage locations, leading to unpredictable behavior in the contract.
 
