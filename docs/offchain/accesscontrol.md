@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 # Access Control Issues
-
+The access control issues in smart contracts are explained in this page.
 ## Description
 Access control issues occur when functions or variables are accessible to unauthorized users. This lack of restriction may allow attackers to execute functions, view sensitive data, or modify critical contract state without permission.
 

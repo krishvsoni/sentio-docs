@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 # Denial of Service (DoS)
-
+Denial of Service due to excessive gas consumption
 ## Description
 A Denial of Service (DoS) attack occurs when a contract contains functions or operations that consume excessive gas or resources, blocking legitimate users from interacting with the contract. These attacks can be intentional or unintentional, often arising from unbounded loops, recursive calls, or overly complex functions.
 
