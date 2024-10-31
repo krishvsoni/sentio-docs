@@ -38,7 +38,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/sentioAO/docs',
         },
         blog: {
           showReadingTime: true,
@@ -49,7 +49,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/sentioAO/docs',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -80,7 +80,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Team', position: 'left'},
         {
-          href: 'https://github.com/haard18/Sentio',
+          href: 'https://github.com/sentioAO/Sentio',
           label: 'GitHub',
           position: 'right',
         },
@@ -104,7 +104,7 @@ const config: Config = {
            
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/XZyU72DJ',
             },
             {
               label: 'Twitter',
@@ -121,12 +121,12 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/haard18/Sentio',
+              href: 'https://github.com/sentioAO/Sentio',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SENTIO `,
+      copyright: `Copyright © ${new Date().getFullYear()}   `,
     },
     prism: {
       theme: prismThemes.github,

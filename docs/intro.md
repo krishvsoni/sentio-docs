@@ -18,8 +18,8 @@ interacting with [Arweave](https://www.arweave.org/) and [AO](https://ao.arweave
 
 Sentio is designed to track and monitor your AO process. It deploys Sentinels which are responsible for overlooking and analyzing any interactions with AO. Sentio provides a comprehensive security framework for deploying and interacting with Arweave and AO. It consists of two main components:
 
-- **PreDeployment Analysis**
-- **PostDeployment Analysis**
+- **Pre-Deployment Analysis**
+- **Post-Deployment Analysis**
 
 ### Sentinels
 A Sentinal is a guard, a lookout these ***immortal*** beings are overseeing every transaction  . With Sentio, you get a fully customized process watcher that analyzes every transaction of your active process. This Customization consists of setting up Tags, Values, sender, Data of message and many more. Any transaction that does not meet the criteria set by you will be flagged and reported to you.
