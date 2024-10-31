@@ -104,7 +104,7 @@ const config: Config = {
            
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: '',
             },
             {
               label: 'Twitter',
@@ -121,7 +121,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: '',
             },
           ],
         },
