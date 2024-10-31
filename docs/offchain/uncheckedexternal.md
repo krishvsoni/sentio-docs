@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 # Unchecked External Call
-
+This page explains the risks associated with unchecked external calls in smart contracts and provides an example in Lua.
 ## Description
 An unchecked external call occurs when a smart contract calls another contract without verifying the success of that call. This can lead to unexpected behavior if the called contract fails or behaves maliciously, as the calling contract may proceed as if the call was successful.
 

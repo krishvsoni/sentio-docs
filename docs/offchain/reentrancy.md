@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 # Reentrancy
-
+This page explains the reentrancy vulnerability in smart contracts.
 ## Description
 Reentrancy occurs when a function makes an external call to another contract before it has updated its own state. This allows the external contract to call back into the original function and potentially modify the state in an unexpected way, leading to unexpected behavior or loss of funds.
 

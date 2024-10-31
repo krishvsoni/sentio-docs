@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 # Unrestricted Write to Storage
-
+This page explains the unrestricted write to storage vulnerability in smart contracts.
 ## Description
 Unrestricted write to storage occurs when a smart contract allows data to be written to storage without sufficient checks. This lack of restriction can permit unauthorized users or operations to alter critical contract data, resulting in unintended or malicious changes.
 

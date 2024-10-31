@@ -1,23 +1,29 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+haard:
+  name: Haard Solanki
+  title: Co-Founder
+  url: https://haarsolanki.co
+  image_url: https://i.imgur.com/hB01Jta.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    x: solanki_haard
+    github: haard18
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+krish:
+  name: Krish Soni
+  title: Co-Founder
+  url: https://krishsoni.co
+  image_url: https://i.imgur.com/2iXpXjy.png
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    x: krishvsoni
+    # linkedin: sebastienlorber
+    github: krishvsoni
+    # newsletter: https://thisweekinreact.com
+dev:
+  name: Dev Patil
+  title: Design and Content Lead
+  url: https://github.com/DevPatils
+  image_url: https://i.imgur.com/32O6YdQ.png
+  socials:
+    x: pixels_of_dev
+    github: DevPatils

@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'haard18', // Usually your GitHub org/user name.
+  projectName: 'Sentio', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -64,12 +64,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'https://i.imgur.com/ReJXkJg.png',
     navbar: {
       title: 'SENTIO',
       logo: {
         alt: 'SENTIO',
-        src: 'img/logo.svg',
+        src: 'https://i.imgur.com/04uG8mf.png',
       },
       items: [
         {
@@ -78,9 +78,9 @@ const config: Config = {
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Team', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/haard18/Sentio',
           label: 'GitHub',
           position: 'right',
         },
@@ -104,7 +104,7 @@ const config: Config = {
            
             {
               label: 'Discord',
-              href: '',
+              href: 'https://discordapp.com/invite/docusaurus',
             },
             {
               label: 'Twitter',
@@ -116,12 +116,12 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Team',
               to: '/blog',
             },
             {
               label: 'GitHub',
-              href: '',
+              href: 'https://github.com/haard18/Sentio',
             },
           ],
         },

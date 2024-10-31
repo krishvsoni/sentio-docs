@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 # Integer Overflow and Underflow
-
+This page explains the integer overflow and underflow vulnerabilities in smart contracts.
 ## Description
 Integer overflow and underflow occur when an arithmetic operation exceeds the maximum or minimum value a variable can hold. Overflow happens when a value wraps around beyond the maximum, and underflow when it drops below the minimum, resulting in unexpected values.
 
