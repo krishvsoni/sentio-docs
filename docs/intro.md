@@ -2,8 +2,8 @@
 sidebar_position: 1
 ---
 
-# What is SENTIO ?
-Let's discover **SENTIO**.
+# What is Sentio ?
+Let's discover **Sentio**.
 
 
 Sentio, derived from Latin or "observe" and "analyze," introduces a

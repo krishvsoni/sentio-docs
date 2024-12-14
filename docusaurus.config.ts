@@ -3,19 +3,20 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'SENTIO',
+  title: 'Sentio',
   tagline: 'Security, Auditing, and Monitoring in Arweave and AO Space',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://imgur.com/VORqgTq.png.ico',
 
   // Set the production url of your site here
-  url: 'https://sentio.vercel.app',
+  url: 'https://sentio-ao.xyz',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: 'https://sentio-ao.xyz',
+  
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'haard18', // Usually your GitHub org/user name.
+  organizationName: 'https://github.com/sentioao', // Usually your GitHub org/user name.
   projectName: 'Sentio', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -66,10 +67,10 @@ const config: Config = {
     // Replace with your project's social card
     image: 'https://i.imgur.com/ReJXkJg.png',
     navbar: {
-      title: 'SENTIO',
+      title: 'Sentio',
       logo: {
-        alt: 'SENTIO',
-        src: 'https://i.imgur.com/04uG8mf.png',
+        alt: 'logo',
+        src: 'https://imgur.com/VORqgTq.png',
       },
       items: [
         {
@@ -93,7 +94,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'SENTIO',
+              label: 'Introduction',
               to: '/docs/intro',
             },
           ],
@@ -101,7 +102,6 @@ const config: Config = {
         {
           title: 'Community',
           items: [
-           
             {
               label: 'Discord',
               href: 'https://discord.gg/XZyU72DJ',
@@ -131,6 +131,10 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
     },
   } satisfies Preset.ThemeConfig,
 };
