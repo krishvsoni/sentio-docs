@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://sentio-ao.xyz',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'https://sentio-ao.xyz',
+  baseUrl: '/',
   
 
   // GitHub pages deployment config.
